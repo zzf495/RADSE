@@ -4,23 +4,15 @@ This repository contains the codes of the Robust Asymmetric Cross-Modal Hashing 
 
 ## Files (matlab implementation)
 
-main 
-
-​	- Core of RADSE.
-
-​	-- train_RADSE.m : the implementation of RADSE
-
-​	-- evaluate_RADSE.m: a script to test RADSE
-
-results
-
-​	-  The results of RADSE
-
-utils
-
-​	- Auxiliary functions.
-
-main_demo.m: a demo that conducts RADSE on NUSWIDE.
+> main 
+> ​	- Core of RADSE.
+> ​	-- train_RADSE.m : the implementation of RADSE
+> ​	-- evaluate_RADSE.m: a script to test RADSE
+> results
+> ​	-  The results of RADSE
+> utils
+> ​	- Auxiliary functions.
+> main_demo.m: a demo that conducts RADSE on NUSWIDE.
 
 ## Citation
 
