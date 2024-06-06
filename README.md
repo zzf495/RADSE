@@ -22,12 +22,12 @@ Text:
 
 Bibtex: 
 
-> @ARTICLE{RADSE,
->   author={Teng, Shaohua and Xu, Tuhong and Zheng, Zefeng and Wu, NaiQi and Zhang, Wei and Teng, Luyao},
->   journal={IEEE Transactions on Computational Social Systems}, 
->   title={Robust Asymmetric Cross-Modal Hashing Retrieval With Dual Semantic Enhancement}, 
->   year={2024},
->   pages={1-14},
->   doi={10.1109/TCSS.2024.3352494}
+> @ARTICLE{RADSE,  
+>   author={Teng, Shaohua and Xu, Tuhong and Zheng, Zefeng and Wu, NaiQi and Zhang, Wei and Teng, Luyao},  
+>   journal={IEEE Transactions on Computational Social Systems},   
+>   title={Robust Asymmetric Cross-Modal Hashing Retrieval With Dual Semantic Enhancement},   
+>   year={2024},  
+>   pages={1-14},  
+>   doi={10.1109/TCSS.2024.3352494}  
 > }
 
